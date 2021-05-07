@@ -9,6 +9,9 @@ Encryption with Caesar code is based on an alphabet shift (move of letters furth
 When encoding mark the encode circle, write down your choice of words, and put down the number of shifts you would like it encoded in.
 [![caesar1.jpg](https://i.postimg.cc/kgp6Vvx3/caesar1.jpg)](https://postimg.cc/sM5DqS6w)
 
+You can find the output at the bottom of the image and highlighted.
+[![caesar2.jpg](https://i.postimg.cc/pXQ3X0Mr/caesar2.jpg)](https://postimg.cc/2V60076N)
+
 ## Polybius Square
 The Polybius square, also known as the Polybius checkerboard, is a device invented by the ancient Greeks Cleoxenus and Democleitus, and made famous by the historian and scholar Polybius. The device is used for fractionating plaintext characters so that they can be represented by a smaller set of symbols, which is useful for telegraphy, steganography, and cryptography. The device was originally used for fire signalling, allowing for the coded transmission of any message, not just a finite amount of predetermined options as was the convention before.
 
