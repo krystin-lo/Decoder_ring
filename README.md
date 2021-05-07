@@ -9,7 +9,7 @@ Encryption with Caesar code is based on an alphabet shift (move of letters furth
 When encoding mark the encode circle, write down your choice of words, and put down the number of shifts you would like it encoded in.
 [![caesar1.jpg](https://i.postimg.cc/kgp6Vvx3/caesar1.jpg)](https://postimg.cc/sM5DqS6w)
 
-You can find the output at the bottom of the image below. The output will be highlighted.
+After submitting the form you can find the output at the bottom of the image below. The output will be highlighted.
 [![caesar2.jpg](https://i.postimg.cc/pXQ3X0Mr/caesar2.jpg)](https://postimg.cc/2V60076N)
 
 ## Polybius Square
