@@ -10,12 +10,15 @@ Encryption with Caesar code is based on an alphabet shift (move of letters furth
 When encoding mark the encode circle, write down your choice of words, and put down the number of shifts you would like it encoded in.
 [![caesar1.jpg](https://i.postimg.cc/kgp6Vvx3/caesar1.jpg)](https://postimg.cc/sM5DqS6w)
 
-After submitting the form you can find the output at the bottom of the image below. The output will be highlighted.
+After submitting the form, you can find the output at the bottom of the image below. The output will be highlighted.
 [![caesar2.jpg](https://i.postimg.cc/pXQ3X0Mr/caesar2.jpg)](https://postimg.cc/2V60076N)
 
 ### Decoding Messages
 When decoding a message mark the decode circle, write down you choice of letters or words, and put down the number of shifts you would like to decode it in.
 [![caesar-decode1.jpg](https://i.postimg.cc/jq6rLqzR/caesar-decode1.jpg)](https://postimg.cc/MXGLLSPL)
+
+After submiting the form, you can find the output at the bottom of the image below. The output will be highlighted.
+[![caesar-decode2.jpg](https://i.postimg.cc/kGYsBtsj/caesar-decode2.jpg)](https://postimg.cc/4HtV0yrt)
 
 ## Polybius Square
 The Polybius square, also known as the Polybius checkerboard, is a device invented by the ancient Greeks Cleoxenus and Democleitus, and made famous by the historian and scholar Polybius. The device is used for fractionating plaintext characters so that they can be represented by a smaller set of symbols, which is useful for telegraphy, steganography, and cryptography. The device was originally used for fire signalling, allowing for the coded transmission of any message, not just a finite amount of predetermined options as was the convention before.
