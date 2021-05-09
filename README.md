@@ -23,7 +23,7 @@ After submiting the form, you can find the output at the bottom of the image bel
 ## Polybius Square
 The Polybius square, also known as the Polybius checkerboard, is a device invented by the ancient Greeks Cleoxenus and Democleitus, and made famous by the historian and scholar Polybius. The device is used for fractionating plaintext characters so that they can be represented by a smaller set of symbols, which is useful for telegraphy, steganography, and cryptography. The device was originally used for fire signalling, allowing for the coded transmission of any message, not just a finite amount of predetermined options as was the convention before.
 
-##Encoding Message
+### Encoding Message
 The Polybius Square is a cipher that is achieved by arranging a typical alphabet into a grid. Each letter is represented through a coordinate. For example, in the above table, the letter "B" would be represented by the numerical pair "21"
 When encoding mark the encode circle and write down your choice of words.
 [![pse1.jpg](https://i.postimg.cc/C5DmFWsv/pse1.jpg)](https://postimg.cc/9wmGbgST)
@@ -31,7 +31,7 @@ When encoding mark the encode circle and write down your choice of words.
 After submitting the form, you can find the output at the bottom of the image below.
 [![pse2.jpg](https://i.postimg.cc/RCfRnxwd/pse2.jpg)](https://postimg.cc/NLsTWVJ2)
 
-##Decoding Message
+### Decoding Message
 When decoding mark the decode circle and write down your choice of words.
 [![psd1.jpg](https://i.postimg.cc/hjm9xVQv/psd1.jpg)](https://postimg.cc/bDzDfDTf)
 
