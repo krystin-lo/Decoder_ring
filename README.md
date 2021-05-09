@@ -37,6 +37,7 @@ When decoding mark the decode circle and write down your choice of words.
 
 After submitting the form, you can find the output at the bottom of the image below.
 * Note: When decoding, it translates 42 to (i/j) as required in the project guidelines.
+
 [![psd-2.jpg](https://i.postimg.cc/mgdNGLGL/psd-2.jpg)](https://postimg.cc/zygRC1B6)
 
 ## Substitution Cypher
