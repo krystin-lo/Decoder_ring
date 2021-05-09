@@ -3,6 +3,10 @@ The Decoder ring project is a combiniation of ceasar shift encoder, polyibius sq
 
 [Live Demo](https://decoder-ring.vercel.app/index.html)
 
+# Default Form
+![image](https://user-images.githubusercontent.com/75879876/117560573-af94e400-b043-11eb-923f-2f5c2a99c4a3.png)
+
+
 ## Ceasar Shift Encoder
 Encryption with Caesar code is based on an alphabet shift (move of letters further in the alphabet), it is a monoalphabetic substitution cipher, ie. a same letter is replaced with only one other (always the same for given cipher message). The most commonly used shift/offset is by 3 letters.
 
